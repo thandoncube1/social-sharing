@@ -6,7 +6,7 @@ const Main = React.createClass({
     return (
       <div>
         <h1>
-          <Link to="/">myInxtagram</Link>
+          <Link to="/">Inxtagram</Link>
         </h1>
       </div>
     )
