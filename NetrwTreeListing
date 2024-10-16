@@ -1,0 +1,29 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v173)
+"   /Users/thandoncube/Documents/Programming/reduxProgramming/Learn-Redux-Starter-Files/learn-redux/client
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+learn-redux/
+| client/
+| | components/
+| | data/
+| | styles/
+| | .DS_Store
+| | actionCreators.js
+| | reduxstagram.js
+| | store.js
+| node_modules/
+| .DS_Store
+| .babelrc
+| .eslintrc
+| devServer.js
+| index.html
+| package-lock.json
+| package.json
+| readme.md
+| store.js
+| webpack.config.dev.js
+| webpack.config.prod.js
